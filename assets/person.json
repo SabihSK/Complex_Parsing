@@ -1,0 +1,25 @@
+  {
+    "name" : "Sabih",
+    "age" : 24,
+    "places": [
+      "Pakistan", 
+      "India", 
+      "USA"
+    ],
+    "images": [
+      {
+        "id": 10,
+        "name": "imag 1"
+      },{
+        "id": 11,
+        "name": "imag 2"
+      }
+    ],
+    "address": {
+    "street_no": "1212",
+    "details": {
+      "house_no": 3355,
+      "town": "Test Town"
+    }
+  }
+  }
